@@ -1,0 +1,4 @@
+ConfigArgParse
+websocket-client
+requests
+paho-mqtt
